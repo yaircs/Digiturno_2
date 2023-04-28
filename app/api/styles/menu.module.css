@@ -1,0 +1,44 @@
+.main_h3{
+    color: red;
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 250px;
+    padding: 20px;
+    
+}
+.navega{
+    text-align:center;
+}
+
+.menuV{
+    text-align: left;
+    display:inline-block;
+    width: 25%;
+    margin: auto ;
+    
+    
+  }
+  
+  .menuV li{
+    list-style: none;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: block;
+    cursor: pointer;
+    border: 1px solid;
+    text-decoration: underline;
+    
+  }
+  .menuV li .sub{
+    display: block;
+    
+    font-size: xx-small;
+  }
+  
+  
+  .menuV li:hover{
+    background-color: white;
+    color: black;
+  }
