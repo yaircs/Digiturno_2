@@ -22,7 +22,7 @@
   
   .menuV li{
     list-style: none;
-    background-color: black;
+    background-color: rgb(163, 161, 161);
     color: white;
     padding: 20px;
     display: block;
